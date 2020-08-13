@@ -100,7 +100,7 @@ example_string:
 {: .source}
 
 String types appear on the command line as literal values.  The `prefix`
-is optional, if provided, it appears as a separate argument on the
+is optional; if provided, it appears as a separate argument on the
 command line before the parameter .  In the example above, this is
 rendered as `--example-string hello`.
 
